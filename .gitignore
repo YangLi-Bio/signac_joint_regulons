@@ -1,0 +1,6 @@
+*_dir
+*.RDS
+*.qsave
+*.pbs
+Signac_*.out
+
